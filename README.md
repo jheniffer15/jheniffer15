@@ -1,6 +1,6 @@
 #Sobre mim
-- 👋 oiii meu nome é @jheniffer15
-- :+1:meu email de contato é jheniffer.candatten.faria@escola.pr.gov.br
+- 👋 oiii meu nome é **@jheniffer15**
+- :+1:meu email de contato é [email](jheniffer.candatten.faria@escola.pr.gov.br)
 - 👀 Estou interessada em aprender a progamar novas linguagem
 - 🌱 atualmente estou aprendendo a progamar recentemente  a linguagem da JaScript e Scratch
 
